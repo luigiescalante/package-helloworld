@@ -1,7 +1,7 @@
 package helloworld
 
 import (
-	message "github.com/luigiescalante/go-package-helloworld/hellomessage"
+	message "github.com/luigiescalante/package-helloworld/hellomessage"
 )
 
 func HelloWorld() *message.HelloMessage {
